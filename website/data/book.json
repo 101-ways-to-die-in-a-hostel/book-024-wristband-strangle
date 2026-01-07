@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "At a full moon party in Thailand, a jealous ex-boyfriend uses a tangle of festival wristbands to strangle his former girlfriend in the chaos of the crowd.",
     "long": ""
   },
   "death_type": "Wristband Strangle",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Every wristband tells a story. Hers ended here."
 }
